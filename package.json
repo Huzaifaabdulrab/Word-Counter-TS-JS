@@ -1,6 +1,6 @@
 {
   "name": "code-word-counter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "GIAIC TypeScript project no 6 Word-Counter create a using inquirer &amp; chalk",
   "main": "index.js",
   "type": "module",
